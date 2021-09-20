@@ -12,7 +12,7 @@ const AdminLoader = () => {
 const Admin = () => (
   <>
     <Head>
-      <title>API Platform Admin</title>
+      <title>API Platform Admins</title>
     </Head>
 
     <AdminLoader />
